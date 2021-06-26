@@ -7,10 +7,22 @@
     box-sizing: border-box;
 }
 
+/* From Bulma */
+.icon {
+    align-items: center;
+    display: inline-flex;
+    justify-content: center;
+}
+
 body {
     font-family: 'Kirang Haerang', Courier, monospace;
 }
 
 nav {
     font-family: 'Barrio', Helvetica, sans-serif;
+}
+
+.navbar-brand {
+    font-size: 7rem;
+    justify-content: left;
 }
