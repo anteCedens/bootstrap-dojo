@@ -6,3 +6,11 @@
 *::after {
     box-sizing: border-box;
 }
+
+body {
+    font-family: 'Kirang Haerang', Courier, monospace;
+}
+
+nav {
+    font-family: 'Barrio', Helvetica, sans-serif;
+}
